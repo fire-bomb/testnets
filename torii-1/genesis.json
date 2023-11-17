@@ -7,7 +7,16 @@
       "max_bytes": "2000000",
       "max_gas": "20000000",
       "time_iota_ms": "1000"
+    },ax_gas": "20000000",
+      "time_iota_ms": "1000"
     },
+    "evidence": {ax_gas": "20000000",
+      "time_iota_ms": "1000"
+    },
+    "evidence": {ax_gas": "20000000",
+      "time_iota_ms": "1000"
+    },
+    "evidence": {
     "evidence": {ax_gas": "20000000",
       "time_iota_ms": "1000"
     },
