@@ -10,7 +10,19 @@ ax_gas": "20000000",
     "evidence": {ax_gas": "20000000",
       "time_iota_ms": "1000"
     },
-    "evidence": {{
+    "evidence": {{ax_gas": "20000000",
+      "time_iota_ms": "1000"
+    },
+    "evidence": {ax_gas": "20000000",
+      "time_iota_ms": "1000"
+    },
+    "evidence": {ax_gas": "20000000",
+      "time_iota_ms": "1000"
+    },
+    "evidence": {ax_gas": "20000000",
+      "time_iota_ms": "1000"
+    },
+    "evidence": {
   "genesis_time": "2022-04-10T13:33:34.377281821Z",
   "chain_id": "torii-1",
   "initial_height": "1",
